@@ -1,2 +1,5 @@
-# Projeto-Calculadora
- Uma calculadora simples programada em C#, como uma calculadora normal o usuário digita dois números, e em seguida digita a operação desejada, caso digite alguma operação que não existe, aparece uma mensagem de erro, para fazer as contas utilizei funções, como por exemplo uma função para somar, subtrair e assim por diante....
+Um projeto básico de uma calculadora, onde o usuário digita dois números, e escreve a operação que deseja utilizar sendo elas +, -, *, /
+
+Para efetuar as operações utilizei por meios de funções, por exemplo uma função para somar, subtrair etc...
+
+Também temos a opção de ao final da conta, o usuário poderá fazer de novo, uma outra conta, utilizando o while
