@@ -1,0 +1,15 @@
+c:\Users\joaob\OneDrive\Documentos\GitHub\Projeto-Calculadora\bin\Debug\net8.0\Projeto-Calculadora.exe
+c:\Users\joaob\OneDrive\Documentos\GitHub\Projeto-Calculadora\bin\Debug\net8.0\Projeto-Calculadora.deps.json
+c:\Users\joaob\OneDrive\Documentos\GitHub\Projeto-Calculadora\bin\Debug\net8.0\Projeto-Calculadora.runtimeconfig.json
+c:\Users\joaob\OneDrive\Documentos\GitHub\Projeto-Calculadora\bin\Debug\net8.0\Projeto-Calculadora.dll
+c:\Users\joaob\OneDrive\Documentos\GitHub\Projeto-Calculadora\bin\Debug\net8.0\Projeto-Calculadora.pdb
+c:\Users\joaob\OneDrive\Documentos\GitHub\Projeto-Calculadora\obj\Debug\net8.0\Projeto-Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\joaob\OneDrive\Documentos\GitHub\Projeto-Calculadora\obj\Debug\net8.0\Projeto-Calculadora.AssemblyInfoInputs.cache
+c:\Users\joaob\OneDrive\Documentos\GitHub\Projeto-Calculadora\obj\Debug\net8.0\Projeto-Calculadora.AssemblyInfo.cs
+c:\Users\joaob\OneDrive\Documentos\GitHub\Projeto-Calculadora\obj\Debug\net8.0\Projeto-Calculadora.csproj.CoreCompileInputs.cache
+c:\Users\joaob\OneDrive\Documentos\GitHub\Projeto-Calculadora\obj\Debug\net8.0\Projeto-Calculadora.sourcelink.json
+c:\Users\joaob\OneDrive\Documentos\GitHub\Projeto-Calculadora\obj\Debug\net8.0\Projeto-Calculadora.dll
+c:\Users\joaob\OneDrive\Documentos\GitHub\Projeto-Calculadora\obj\Debug\net8.0\refint\Projeto-Calculadora.dll
+c:\Users\joaob\OneDrive\Documentos\GitHub\Projeto-Calculadora\obj\Debug\net8.0\Projeto-Calculadora.pdb
+c:\Users\joaob\OneDrive\Documentos\GitHub\Projeto-Calculadora\obj\Debug\net8.0\Projeto-Calculadora.genruntimeconfig.cache
+c:\Users\joaob\OneDrive\Documentos\GitHub\Projeto-Calculadora\obj\Debug\net8.0\ref\Projeto-Calculadora.dll
