@@ -4,6 +4,7 @@ char operacao;
 int resultado = 0;
 string simOuNao = string.Empty;
 
+// Perguntas ↓
 do
 {
     Console.Clear();
