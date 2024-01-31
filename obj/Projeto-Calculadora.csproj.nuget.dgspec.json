@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\joaob\\OneDrive\\Documentos\\GitHub\\Projeto-Calculadora\\Projeto-Calculadora.csproj": {}
+    "C:\\Users\\joaob\\OneDrive\\Documentos\\GitHub\\Projeto-Calculadora\\Projeto-Calculadora.csproj": {}
   },
   "projects": {
-    "c:\\Users\\joaob\\OneDrive\\Documentos\\GitHub\\Projeto-Calculadora\\Projeto-Calculadora.csproj": {
+    "C:\\Users\\joaob\\OneDrive\\Documentos\\GitHub\\Projeto-Calculadora\\Projeto-Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\joaob\\OneDrive\\Documentos\\GitHub\\Projeto-Calculadora\\Projeto-Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\joaob\\OneDrive\\Documentos\\GitHub\\Projeto-Calculadora\\Projeto-Calculadora.csproj",
         "projectName": "Projeto-Calculadora",
-        "projectPath": "c:\\Users\\joaob\\OneDrive\\Documentos\\GitHub\\Projeto-Calculadora\\Projeto-Calculadora.csproj",
+        "projectPath": "C:\\Users\\joaob\\OneDrive\\Documentos\\GitHub\\Projeto-Calculadora\\Projeto-Calculadora.csproj",
         "packagesPath": "C:\\Users\\joaob\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\joaob\\OneDrive\\Documentos\\GitHub\\Projeto-Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\joaob\\OneDrive\\Documentos\\GitHub\\Projeto-Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaob\\AppData\\Roaming\\NuGet\\NuGet.Config"

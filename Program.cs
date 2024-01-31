@@ -6,17 +6,18 @@ string simOuNao = string.Empty;
 
 do
 {
-    System.Console.WriteLine("Vamos começar a nossa calculadora");
-    System.Console.WriteLine("-----------------------------------");
-    
+    Console.Clear();
+    System.Console.WriteLine("############## Vamos começar a nossa calculadora ##############");
+    System.Console.WriteLine("");
+
     System.Console.WriteLine("Por Favor, digite o primeiro número:");
     numero1 = int.Parse(Console.ReadLine());
-    System.Console.WriteLine("-----------------------------------");
-    
+    System.Console.WriteLine("");
+
     System.Console.WriteLine("Agora, digite o segundo número");
     numero2 = int.Parse(Console.ReadLine());
-    System.Console.WriteLine("-----------------------------------");
-    
+    System.Console.WriteLine("");
+
     System.Console.WriteLine("Informe a operação que vai ser utilizada");
     operacao = char.Parse(Console.ReadLine());
 
@@ -24,17 +25,20 @@ do
     if (operacao == '+')
     {
         resultado = Soma(numero1, numero2);
-        System.Console.WriteLine($"O valor da soma é de {resultado}");
+        System.Console.WriteLine($"O valor da soma é");
+        System.Console.WriteLine(resultado);
     }
     else if (operacao == '-')
     {
         resultado = Diminuir(numero1, numero2);
-        System.Console.WriteLine($"O valor da subtração é de {resultado}");
+        System.Console.WriteLine($"O valor da subtração é");
+        System.Console.WriteLine(resultado);
     }
     else if (operacao == '*')
     {
         resultado = Multiplicar(numero1, numero2);
-        System.Console.WriteLine($"O valor da multiplicaço é de {resultado}");
+        System.Console.WriteLine($"O valor da multiplicaço é");
+        System.Console.WriteLine(resultado);
     }
     else if (operacao == '/')
     {
@@ -45,7 +49,8 @@ do
         else
         {
             resultado = Dividir(numero1, numero2);
-            System.Console.WriteLine($"O valor da divisao é de {resultado}");
+            System.Console.WriteLine($"O valor da divisao é");
+            System.Console.WriteLine(resultado);
         }
     }
     else
